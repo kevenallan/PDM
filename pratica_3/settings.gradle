@@ -1,0 +1,2 @@
+rootProject.name = "pratica_3"
+include ':app'
